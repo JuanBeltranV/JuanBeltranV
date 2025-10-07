@@ -21,7 +21,7 @@
 **Objetivo:** Crear una interfaz limpia y atractiva para mostrar productos de cómics y mangas.
 
   <a href="https://juanbeltranv.github.io/Frontend-Tienda/">
-    <img src="https://github.com/JuanBeltranV/Frontend-Tienda/blob/main/assets/preview.png?raw=1" alt="Chetanga Preview" width="600">
+    <img src="https://github.com/JuanBeltranV/Frontend-Tienda/blob/main/assets/preview.png?raw=1&v=2" alt="Chetanga Preview" width="600">
   </a>
 </p>
 
