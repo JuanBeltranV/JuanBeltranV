@@ -20,8 +20,11 @@
 **Enfoque:** Diseño visual, estructura responsive y experiencia de usuario  
 **Objetivo:** Crear una interfaz limpia y atractiva para mostrar productos de cómics y mangas.
 
-  <img src="https://github.com/JuanBeltranV/Frontend-Tienda/blob/main/assets/preview.png?raw=1" alt="Chetanga Preview" width="600" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+  <a href="https://juanbeltranv.github.io/Frontend-Tienda/">
+    <img src="https://github.com/JuanBeltranV/Frontend-Tienda/blob/main/assets/preview.png?raw=1" alt="Chetanga Preview" width="600">
+  </a>
 </p>
+
 
 
 ## 📫 Contacto
