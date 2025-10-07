@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan Ignacio Beltrán
+# Juan Ignacio Beltrán
 
 Estudiante de **Ingeniería Informática** en Duoc UC  
 
