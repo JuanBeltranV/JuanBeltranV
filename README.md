@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Ignacio Beltrán
 
-💻 Estudiante de **Ingeniería Informática** en Duoc UC  
+Estudiante de **Ingeniería Informática** en Duoc UC  
 
 ## Tecnologías que uso
 
@@ -30,7 +30,5 @@
 </p>
 
 
-
-## 📫 Contacto
-📧 jua.beltranv@duocuc.cl 
-💼 [GitHub](https://github.com/JuanBeltranV)
+## Contacto
+<img src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-vert.png" width="18"/> jua.beltranv@duocuc.cl  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/> [GitHub](https://github.com/JuanBeltranV)
