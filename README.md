@@ -13,7 +13,7 @@
 
 ## Proyecto destacado
 
-### [Chetanga Comics & Mangas](https://github.com/JuanBeltranV/chetanga-comics)
+### [Chetanga Comics & Mangas](https://github.com/JuanBeltranV/Frontend-Tienda)
 > Tienda web visual inspirada en la cultura del cómic y manga.
 
 **Tecnologías:** HTML · CSS · JavaScript  
