@@ -6,7 +6,7 @@ Estudiante de **Ingeniería Informática** en Duoc UC
 
 ---
 
-## 🛠️ Tecnologías que uso 🛠️
+## Tecnologías que uso 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,7 +33,7 @@ Estudiante de **Ingeniería Informática** en Duoc UC
 
 ---
 
-## 📫 Contacto 📫
+## Contacto
 
 <p align="center">
   <img src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-vert.png" width="18" style="vertical-align:middle;"/> 
