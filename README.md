@@ -22,17 +22,13 @@ Estudiante de **Ingeniería Informática** en Duoc UC
 
 ---
 
-## 🌟 Proyecto destacado 🌟
+## Portafolio
 
-### <a href="https://github.com/JuanBeltranV/Frontend-Tienda">Chetanga Comics & Mangas</a>
-> Tienda web visual inspirada en la cultura del cómic y manga.
+> Sobre mi y proyectos.
 
-**Tecnologías:** HTML · CSS · JavaScript  
-**Enfoque:** Diseño visual, estructura responsive y experiencia de usuario  
-**Objetivo:** Crear una interfaz limpia y atractiva para mostrar productos de cómics y mangas.
 
 <a href="https://juanbeltranv.github.io/Frontend-Tienda/">
-  <img src="https://github.com/JuanBeltranV/Frontend-Tienda/blob/main/assets/preview.png?raw=1&v=2" alt="Chetanga Preview" width="600">
+  <img src="https://cdn-icons-png.flaticon.com/512/639/639371.png" width="100" style="vertical-align:middle;"/>
 </a>
 
 ---
@@ -43,7 +39,7 @@ Estudiante de **Ingeniería Informática** en Duoc UC
   <img src="https://icones.pro/wp-content/uploads/2021/05/icones-de-messagerie-vert.png" width="18" style="vertical-align:middle;"/> 
   jua.beltranv@duocuc.cl  
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" style="vertical-align:middle;"/>
+  <img src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" width="18" style="vertical-align:middle;"/>
   <a href="https://github.com/JuanBeltranV">GitHub</a>
 </p>
 
