@@ -26,7 +26,7 @@ Estudiante de **Ingeniería Informática** en Duoc UC
 > Sobre mi y proyectos.
 
 
-<a href="https://juanbeltranv.github.io/Frontend-Tienda/">
+<a href="https://juanbeltranv.github.io/perfil-github/">
   <img src="https://cdn-icons-png.flaticon.com/512/639/639371.png" width="100" style="vertical-align:middle;"/>
 </a>
 
