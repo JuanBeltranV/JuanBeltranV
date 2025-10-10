@@ -1,6 +1,9 @@
 <div align="center">
 
-# Juan Ignacio Beltrán
+<div align="center">
+  <img src="assets/name.png" alt="Juan Ignacio Beltrán" width="1000" />
+</div>
+
 
 Estudiante de **Ingeniería Informática** en Duoc UC  
 
