@@ -24,7 +24,7 @@ Estudiante de **Ingeniería Informática** en Duoc UC
 
 ---
 
-<a href="https://juanbeltranv.github.io/perfil-githu/" target="_blank" rel="noopener noreferrer">
+<a href="https://juanbeltranv.github.io/perfil-github/" target="_blank" rel="noopener noreferrer">
   <img src="assets/btn-portafolio.png" alt="Ver mi portafolio" width="200" />
 </a>
 
