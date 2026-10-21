@@ -5,6 +5,7 @@
   **Estudiante de Ingeniería Informática · Duoc UC**  
   **Cloud & DevOps · IA aplicada · Desarrollo Fullstack**
 
+  [![Portafolio](https://img.shields.io/badge/Portafolio-Ver_sitio-005244?style=flat-square&logo=googlechrome&logoColor=white)](https://juanbeltranv.github.io/perfil-github/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanbeltranv-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanbeltranv/)
   [![GitHub](https://img.shields.io/badge/GitHub-JuanBeltranV-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JuanBeltranV)
 </div>
